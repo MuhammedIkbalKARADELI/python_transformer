@@ -10,12 +10,12 @@ Buradaki kodlar çalışmanın gerçekleşbiliritesi için bir deneme yanılma o
 Bu kodların sahibi youtube daki www.youtube.com/@CodeEmporium kanalından alınmıştır.
 Her kode aşağıdaki vide da daha ayrıntılı bahsedilmiştir 
 
-Self Attention in Transformer Neural Networks -> https://youtu.be/QCJQG4DuHT0
-Multi Head Attention in Transformer Neural Networks -> https://youtu.be/HQn1QKQYXVg 
-Positional Encoding in Transformer Neural Networks -> https://youtu.be/ZMxVe-HK174
-Layer Normalization -> https://youtu.be/G45TuC6zRf4
-Blowing up the Transformer -> https://youtu.be/QwfuoNhjbkI 
-Transformer Encoder in 100 lines of code! -> https://youtu.be/g3sEsBGkLU0
+- Self Attention in Transformer Neural Networks -> https://youtu.be/QCJQG4DuHT0
+- Multi Head Attention in Transformer Neural Networks -> https://youtu.be/HQn1QKQYXVg 
+- Positional Encoding in Transformer Neural Networks -> https://youtu.be/ZMxVe-HK174
+- Layer Normalization -> https://youtu.be/G45TuC6zRf4
+- Blowing up the Transformer -> https://youtu.be/QwfuoNhjbkI 
+- Transformer Encoder in 100 lines of code! -> https://youtu.be/g3sEsBGkLU0
 
 Bu video seirisinin devamında transformerın decoder kısmıda bahsedilmektedir. 
 Biz bu projede bu adıma kadar planladık ve transformer ın encoding kısmında bitirdik.
