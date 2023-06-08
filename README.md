@@ -18,7 +18,7 @@ Her kode aşağıdaki vide da daha ayrıntılı bahsedilmiştir
 - Transformer Encoder in 100 lines of code! -> https://youtu.be/g3sEsBGkLU0
 
 Bu video seirisinin devamında transformerın decoder kısmıda bahsedilmektedir. 
-Biz bu projede bu adıma kadar planladık ve transformer ın encoding kısmında bitirdik.
+Biz bu projede bu adıma kadar planladık ve başarısız olduk bunun sonucunda transformer mimarisinin encoding kısmında bitirdik.
 
 Dopler sounda datalarından özellik çıkartmak için Transformer yerine Short Time Fourier Transform kullanarak spectogram elde edilemsi planlanmaktadır.
 Diğer bir resporiteris de paylaşacağım. 
