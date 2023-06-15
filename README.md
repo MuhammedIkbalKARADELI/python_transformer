@@ -1,4 +1,4 @@
-# Transformer Ve Sağlıkta Ypayzeka 
+# Transformer Ve Sağlıkta Yapayzeka 
 
 Bu çalışmada Dopler sound datalarından embolik sinyallerin yapay zeka ile ortaya çıkarılması üzerine kurgulanan bir fikir üzerine bir denemedir.
 Transformer kodlarının buradaki amacı dopler sinyallerinden özellik çıkarımı yapmak için kullanımak üzere seçilen bir mimaridir. Bu mimariyi 
